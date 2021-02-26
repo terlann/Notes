@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Translate\Translate\bin\Debug\Translate.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Translate\Translate\bin\Debug\Translate.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Translate\Translate\bin\Debug\Translate.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Translate\Translate\obj\Debug\Translate.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Translate\Translate\obj\Debug\Translate.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Translate\Translate\obj\Debug\Translate.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Translate\Translate\obj\Debug\Translate.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Translate\Translate\obj\Debug\Translate.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Translate\Translate\obj\Debug\Translate.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Translate\Translate\obj\Debug\Translate.pdb

@@ -1,0 +1,17 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\bin\Debug\WebCamera.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\bin\Debug\WebCamera.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\bin\Debug\WebCamera.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\bin\Debug\AForge.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\bin\Debug\AForge.Video.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\bin\Debug\AForge.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\bin\Debug\AForge.Video.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\obj\Debug\WebCamera.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\obj\Debug\WebCamera.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\obj\Debug\WebCamera.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\obj\Debug\WebCamera.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\obj\Debug\WebCamera.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\obj\Debug\WebCamera.csproj.CopyComplete
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\obj\Debug\WebCamera.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\WebCamera\WebCamera\obj\Debug\WebCamera.pdb

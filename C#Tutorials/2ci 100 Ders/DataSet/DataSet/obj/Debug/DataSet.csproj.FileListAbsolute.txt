@@ -1,0 +1,9 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\DataSet\DataSet\bin\Debug\DataSet.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\DataSet\DataSet\bin\Debug\DataSet.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\DataSet\DataSet\bin\Debug\DataSet.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\DataSet\DataSet\obj\Debug\DataSet.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\DataSet\DataSet\obj\Debug\DataSet.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\DataSet\DataSet\obj\Debug\DataSet.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\DataSet\DataSet\obj\Debug\DataSet.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\DataSet\DataSet\obj\Debug\DataSet.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\DataSet\DataSet\obj\Debug\DataSet.pdb

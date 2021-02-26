@@ -1,0 +1,16 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\bin\Debug\Ders6_UstDuzeyKatmansalMimari.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\bin\Debug\Ders6_UstDuzeyKatmansalMimari.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\bin\Debug\Ders6_UstDuzeyKatmansalMimari.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\bin\Debug\ENTİTY.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\bin\Debug\ORM.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\bin\Debug\ENTİTY.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\bin\Debug\ORM.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\obj\Debug\Ders6_UstDuzeyKatmansalMimari.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\obj\Debug\Ders6_UstDuzeyKatmansalMimari.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\obj\Debug\Ders6_UstDuzeyKatmansalMimari.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\obj\Debug\Ders6_UstDuzeyKatmansalMimari.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\obj\Debug\Ders6_UstDuzeyKatmansalMimari.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\obj\Debug\Ders6_UstDuzeyKatmansalMimari.FormUrunler.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\obj\Debug\Ders6_UstDuzeyKatmansalMimari.FormKategoriler.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\obj\Debug\Ders6_UstDuzeyKatmansalMimari.FormTedarikciler.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\Ders6_UstDuzeyKatmansalMimari\obj\Debug\Ders6_UstDuzeyKatmansalMimari.csprojResolveAssemblyReference.cache

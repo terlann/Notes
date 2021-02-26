@@ -1,0 +1,9 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Introduction\Introduction_EnginDemiroğ\Ref Out\Ref Out\bin\Debug\Ref Out.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Introduction\Introduction_EnginDemiroğ\Ref Out\Ref Out\bin\Debug\Ref Out.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Introduction\Introduction_EnginDemiroğ\Ref Out\Ref Out\bin\Debug\Ref Out.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Introduction\Introduction_EnginDemiroğ\Ref Out\Ref Out\obj\Debug\Ref_Out.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Introduction\Introduction_EnginDemiroğ\Ref Out\Ref Out\obj\Debug\Ref_Out.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Introduction\Introduction_EnginDemiroğ\Ref Out\Ref Out\obj\Debug\Ref Out.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Introduction\Introduction_EnginDemiroğ\Ref Out\Ref Out\obj\Debug\Ref Out.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Introduction\Introduction_EnginDemiroğ\Ref Out\Ref Out\obj\Debug\Ref Out.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Introduction\Introduction_EnginDemiroğ\Ref Out\Ref Out\obj\Debug\Ref Out.pdb

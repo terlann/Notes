@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\source\repos\19.11.2020 tck dogrulama\19.11.2020 tck dogrulama\bin\Debug\19.11.2020 tck dogrulama.exe.config
+C:\Users\QurbanovTM\source\repos\19.11.2020 tck dogrulama\19.11.2020 tck dogrulama\bin\Debug\19.11.2020 tck dogrulama.exe
+C:\Users\QurbanovTM\source\repos\19.11.2020 tck dogrulama\19.11.2020 tck dogrulama\bin\Debug\19.11.2020 tck dogrulama.pdb
+C:\Users\QurbanovTM\source\repos\19.11.2020 tck dogrulama\19.11.2020 tck dogrulama\obj\Debug\19.11.2020 tck dogrulama.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\19.11.2020 tck dogrulama\19.11.2020 tck dogrulama\obj\Debug\_19._11._2020_tck_dogrulama.Form1.resources
+C:\Users\QurbanovTM\source\repos\19.11.2020 tck dogrulama\19.11.2020 tck dogrulama\obj\Debug\_19._11._2020_tck_dogrulama.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\19.11.2020 tck dogrulama\19.11.2020 tck dogrulama\obj\Debug\19.11.2020 tck dogrulama.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\19.11.2020 tck dogrulama\19.11.2020 tck dogrulama\obj\Debug\19.11.2020 tck dogrulama.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\19.11.2020 tck dogrulama\19.11.2020 tck dogrulama\obj\Debug\19.11.2020 tck dogrulama.exe
+C:\Users\QurbanovTM\source\repos\19.11.2020 tck dogrulama\19.11.2020 tck dogrulama\obj\Debug\19.11.2020 tck dogrulama.pdb

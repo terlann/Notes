@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\source\repos\RuntimeUyqulamasi\RuntimeUyqulamasi\bin\Debug\RuntimeUyqulamasi.exe.config
+C:\Users\QurbanovTM\source\repos\RuntimeUyqulamasi\RuntimeUyqulamasi\bin\Debug\RuntimeUyqulamasi.exe
+C:\Users\QurbanovTM\source\repos\RuntimeUyqulamasi\RuntimeUyqulamasi\bin\Debug\RuntimeUyqulamasi.pdb
+C:\Users\QurbanovTM\source\repos\RuntimeUyqulamasi\RuntimeUyqulamasi\obj\Debug\RuntimeUyqulamasi.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\RuntimeUyqulamasi\RuntimeUyqulamasi\obj\Debug\RuntimeUyqulamasi.Form1.resources
+C:\Users\QurbanovTM\source\repos\RuntimeUyqulamasi\RuntimeUyqulamasi\obj\Debug\RuntimeUyqulamasi.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\RuntimeUyqulamasi\RuntimeUyqulamasi\obj\Debug\RuntimeUyqulamasi.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\RuntimeUyqulamasi\RuntimeUyqulamasi\obj\Debug\RuntimeUyqulamasi.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\RuntimeUyqulamasi\RuntimeUyqulamasi\obj\Debug\RuntimeUyqulamasi.exe
+C:\Users\QurbanovTM\source\repos\RuntimeUyqulamasi\RuntimeUyqulamasi\obj\Debug\RuntimeUyqulamasi.pdb

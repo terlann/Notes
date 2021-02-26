@@ -1,0 +1,4 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ENTİTY\bin\Debug\ENTİTY.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ENTİTY\bin\Debug\ENTİTY.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ENTİTY\obj\Debug\ENTİTY.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ENTİTY\obj\Debug\ENTİTY.pdb

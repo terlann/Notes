@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Constructor_YapıcıMetot\Constructor_YapıcıMetot\bin\Debug\Constructor_YapıcıMetot.exe.config
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Constructor_YapıcıMetot\Constructor_YapıcıMetot\bin\Debug\Constructor_YapıcıMetot.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Constructor_YapıcıMetot\Constructor_YapıcıMetot\bin\Debug\Constructor_YapıcıMetot.pdb
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Constructor_YapıcıMetot\Constructor_YapıcıMetot\obj\Debug\Constructor_YapıcıMetot.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Constructor_YapıcıMetot\Constructor_YapıcıMetot\obj\Debug\Constructor_YapıcıMetot.Form1.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Constructor_YapıcıMetot\Constructor_YapıcıMetot\obj\Debug\Constructor_YapıcıMetot.Properties.Resources.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Constructor_YapıcıMetot\Constructor_YapıcıMetot\obj\Debug\Constructor_YapıcıMetot.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Constructor_YapıcıMetot\Constructor_YapıcıMetot\obj\Debug\Constructor_YapıcıMetot.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Constructor_YapıcıMetot\Constructor_YapıcıMetot\obj\Debug\Constructor_YapıcıMetot.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Constructor_YapıcıMetot\Constructor_YapıcıMetot\obj\Debug\Constructor_YapıcıMetot.pdb

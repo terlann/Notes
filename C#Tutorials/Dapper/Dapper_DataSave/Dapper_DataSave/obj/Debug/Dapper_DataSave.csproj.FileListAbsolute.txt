@@ -1,0 +1,13 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\bin\Debug\Dapper_DataSave.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\bin\Debug\Dapper_DataSave.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\bin\Debug\Dapper_DataSave.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\bin\Debug\Dapper.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\bin\Debug\Dapper.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\obj\Debug\Dapper_DataSave.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\obj\Debug\Dapper_DataSave.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\obj\Debug\Dapper_DataSave.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\obj\Debug\Dapper_DataSave.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\obj\Debug\Dapper_DataSave.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\obj\Debug\Dapper_DataSave.csproj.CopyComplete
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\obj\Debug\Dapper_DataSave.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Dapper\Dapper_DataSave\Dapper_DataSave\obj\Debug\Dapper_DataSave.pdb

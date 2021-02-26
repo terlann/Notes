@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\OOPGiris\OOPGiris\bin\Debug\OOPGiris.exe.config
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\OOPGiris\OOPGiris\bin\Debug\OOPGiris.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\OOPGiris\OOPGiris\bin\Debug\OOPGiris.pdb
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\OOPGiris\OOPGiris\obj\Debug\OOPGiris.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\OOPGiris\OOPGiris\obj\Debug\OOPGiris.Form1.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\OOPGiris\OOPGiris\obj\Debug\OOPGiris.Properties.Resources.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\OOPGiris\OOPGiris\obj\Debug\OOPGiris.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\OOPGiris\OOPGiris\obj\Debug\OOPGiris.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\OOPGiris\OOPGiris\obj\Debug\OOPGiris.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\OOPGiris\OOPGiris\obj\Debug\OOPGiris.pdb

@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\source\repos\HataAyiklama\HataAyiklama\bin\Debug\HataAyiklama.exe.config
+C:\Users\QurbanovTM\source\repos\HataAyiklama\HataAyiklama\bin\Debug\HataAyiklama.exe
+C:\Users\QurbanovTM\source\repos\HataAyiklama\HataAyiklama\bin\Debug\HataAyiklama.pdb
+C:\Users\QurbanovTM\source\repos\HataAyiklama\HataAyiklama\obj\Debug\HataAyiklama.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\HataAyiklama\HataAyiklama\obj\Debug\HataAyiklama.Form1.resources
+C:\Users\QurbanovTM\source\repos\HataAyiklama\HataAyiklama\obj\Debug\HataAyiklama.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\HataAyiklama\HataAyiklama\obj\Debug\HataAyiklama.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\HataAyiklama\HataAyiklama\obj\Debug\HataAyiklama.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\HataAyiklama\HataAyiklama\obj\Debug\HataAyiklama.exe
+C:\Users\QurbanovTM\source\repos\HataAyiklama\HataAyiklama\obj\Debug\HataAyiklama.pdb

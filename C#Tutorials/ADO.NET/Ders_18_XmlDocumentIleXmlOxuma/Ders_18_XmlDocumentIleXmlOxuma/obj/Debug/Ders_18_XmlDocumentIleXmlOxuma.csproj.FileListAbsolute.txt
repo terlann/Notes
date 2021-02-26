@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_18_XmlDocumentIleXmlOxuma\Ders_18_XmlDocumentIleXmlOxuma\bin\Debug\Ders_18_XmlDocumentIleXmlOxuma.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_18_XmlDocumentIleXmlOxuma\Ders_18_XmlDocumentIleXmlOxuma\bin\Debug\Ders_18_XmlDocumentIleXmlOxuma.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_18_XmlDocumentIleXmlOxuma\Ders_18_XmlDocumentIleXmlOxuma\bin\Debug\Ders_18_XmlDocumentIleXmlOxuma.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_18_XmlDocumentIleXmlOxuma\Ders_18_XmlDocumentIleXmlOxuma\obj\Debug\Ders_18_XmlDocumentIleXmlOxuma.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_18_XmlDocumentIleXmlOxuma\Ders_18_XmlDocumentIleXmlOxuma\obj\Debug\Ders_18_XmlDocumentIleXmlOxuma.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_18_XmlDocumentIleXmlOxuma\Ders_18_XmlDocumentIleXmlOxuma\obj\Debug\Ders_18_XmlDocumentIleXmlOxuma.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_18_XmlDocumentIleXmlOxuma\Ders_18_XmlDocumentIleXmlOxuma\obj\Debug\Ders_18_XmlDocumentIleXmlOxuma.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_18_XmlDocumentIleXmlOxuma\Ders_18_XmlDocumentIleXmlOxuma\obj\Debug\Ders_18_XmlDocumentIleXmlOxuma.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_18_XmlDocumentIleXmlOxuma\Ders_18_XmlDocumentIleXmlOxuma\obj\Debug\Ders_18_XmlDocumentIleXmlOxuma.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_18_XmlDocumentIleXmlOxuma\Ders_18_XmlDocumentIleXmlOxuma\obj\Debug\Ders_18_XmlDocumentIleXmlOxuma.pdb

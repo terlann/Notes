@@ -1,0 +1,12 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\obj\Debug\Barcode.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\obj\Debug\Barcode.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\obj\Debug\Barcode.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\bin\Debug\Barcode.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\obj\Debug\Barcode.csproj.CopyComplete
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Barcode\Barcode\obj\Debug\Barcode.pdb

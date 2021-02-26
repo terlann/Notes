@@ -1,0 +1,15 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\bin\Debug\Ders_11_17OtelProgrami.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\bin\Debug\Ders_11_17OtelProgrami.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\bin\Debug\Ders_11_17OtelProgrami.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\obj\Debug\Ders_11_17OtelProgrami.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\obj\Debug\Ders_11_17OtelProgrami.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\obj\Debug\Ders_11_17OtelProgrami.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\obj\Debug\Ders_11_17OtelProgrami.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\obj\Debug\Ders_11_17OtelProgrami.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\obj\Debug\Ders_11_17OtelProgrami.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\bin\Debug\ENTITY.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\bin\Debug\ORM.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\bin\Debug\ENTITY.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\bin\Debug\ORM.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\obj\Debug\Ders_11_17OtelProgrami.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\Ders_11_17OtelProgrami\obj\Debug\Ders_11_17OtelProgrami.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ORM\bin\Debug\ORM.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ORM\bin\Debug\ORM.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ORM\bin\Debug\ENTİTY.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ORM\bin\Debug\ENTİTY.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ORM\obj\Debug\ORM.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ORM\obj\Debug\ORM.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders6_UstDuzeyKatmansalMimari\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\bin\Debug\CodeFirst_SIDU.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\bin\Debug\CodeFirst_SIDU.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\bin\Debug\CodeFirst_SIDU.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\bin\Debug\EntityFramework.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\bin\Debug\EntityFramework.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\obj\Debug\CodeFirst_SIDU.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\obj\Debug\CodeFirst_SIDU.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\obj\Debug\CodeFirst_SIDU.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\obj\Debug\CodeFirst_SIDU.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\obj\Debug\CodeFirst_SIDU.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\obj\Debug\CodeFirst_SIDU.csprojResolveAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\Entity_CodeFirst\CodeFirst_SIDU\CodeFirst_SIDU\obj\Debug\CodeFirst_SIDU.FormRapor.resources

@@ -1,0 +1,28 @@
+<Filmler>
+  <Film adi="Kurtlar Vadisi" kategori="Mafya" ili="2005" Yaradici="Ramin Atabey" IBDMPuan="5.5">
+    <Oyuncular>
+      <oyuncu>Polat</oyuncu>
+      <oyuncu>Memati</oyuncu>
+      <oyuncu>Abduley</oyuncu>
+      <oyuncu>Erhan</oyuncu>
+      <oyuncu>Cahid</oyuncu>
+    </Oyuncular>
+  </Film>
+  <Film adi="Kurtlar Vadisi Pusu" kategori="Mafya" ili="2007" Yaradici="Ramin Atabey" IBDMPuan="9.8">
+    <Oyuncular>
+      <oyuncu>Polat</oyuncu>
+      <oyuncu>Memati</oyuncu>
+      <oyuncu>Abduley</oyuncu>
+      <oyuncu>Erhan</oyuncu>
+      <oyuncu>Cahid</oyuncu>
+    </Oyuncular>
+  </Film>
+  <Film adi="Yaprak Dokumu" kategori="Romantik" ili="2008" Yaradici="Ebulfez" IBDMPuan="7.6">
+    <Oyuncular>
+      <oyuncu>Azer</oyuncu>
+      <oyuncu>Tural</oyuncu>
+      <oyuncu>Ayxan</oyuncu>
+      <oyuncu>Arzu</oyuncu>
+    </Oyuncular>
+  </Film>
+</Filmler>

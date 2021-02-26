@@ -1,0 +1,11 @@
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\bin\Debug\UserControls.exe.config
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\bin\Debug\UserControls.exe
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\bin\Debug\UserControls.pdb
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\obj\Debug\UserControls.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\obj\Debug\UserControls.Form1.resources
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\obj\Debug\UserControls.InputControl.resources
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\obj\Debug\UserControls.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\obj\Debug\UserControls.exe
+C:\Users\QurbanovTM\source\repos\UserControls\UserControls\obj\Debug\UserControls.pdb

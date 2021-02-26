@@ -1,0 +1,15 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\bin\Debug\EntityFramework_ModelFirst.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\bin\Debug\EntityFramework_ModelFirst.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\bin\Debug\EntityFramework_ModelFirst.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\bin\Debug\EntityFramework.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\bin\Debug\EntityFramework.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\obj\Debug\EntityFramework_ModelFirst.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\obj\Debug\EntityFramework_ModelFirst.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\obj\Debug\EntityFramework_ModelFirst.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\obj\Debug\EntityFramework_ModelFirst.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\obj\Debug\EntityFramework_ModelFirst.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\obj\Debug\EntityFramework_ModelFirst.csproj.CopyComplete
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\obj\Debug\EntityFramework_ModelFirst.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\EntityFramework_ModelFirst\EntityFramework_ModelFirst\obj\Debug\EntityFramework_ModelFirst.pdb

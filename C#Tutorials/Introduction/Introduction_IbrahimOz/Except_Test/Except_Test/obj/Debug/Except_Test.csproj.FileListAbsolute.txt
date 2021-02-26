@@ -1,0 +1,7 @@
+C:\Users\QurbanovTM\source\repos\Except_Test\Except_Test\bin\Debug\Except_Test.exe.config
+C:\Users\QurbanovTM\source\repos\Except_Test\Except_Test\bin\Debug\Except_Test.exe
+C:\Users\QurbanovTM\source\repos\Except_Test\Except_Test\bin\Debug\Except_Test.pdb
+C:\Users\QurbanovTM\source\repos\Except_Test\Except_Test\obj\Debug\Except_Test.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\Except_Test\Except_Test\obj\Debug\Except_Test.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\Except_Test\Except_Test\obj\Debug\Except_Test.exe
+C:\Users\QurbanovTM\source\repos\Except_Test\Except_Test\obj\Debug\Except_Test.pdb

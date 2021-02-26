@@ -1,0 +1,11 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\bin\Debug\Ders_19_XmlYazma.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\bin\Debug\Ders_19_XmlYazma.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\bin\Debug\Ders_19_XmlYazma.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\obj\Debug\Ders_19_XmlYazma.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\obj\Debug\Ders_19_XmlYazma.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\obj\Debug\Ders_19_XmlYazma.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\obj\Debug\Ders_19_XmlYazma.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\obj\Debug\Ders_19_XmlYazma.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\obj\Debug\Ders_19_XmlYazma.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\obj\Debug\Ders_19_XmlYazma.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_19_XmlYazma\Ders_19_XmlYazma\obj\Debug\Ders_19_XmlYazma.DBToXML.resources

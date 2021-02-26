@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\SezarSifrelemeUsulu\SezarSifrelemeUsulu\bin\Debug\SezarSifrelemeUsulu.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\SezarSifrelemeUsulu\SezarSifrelemeUsulu\bin\Debug\SezarSifrelemeUsulu.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\SezarSifrelemeUsulu\SezarSifrelemeUsulu\bin\Debug\SezarSifrelemeUsulu.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\SezarSifrelemeUsulu\SezarSifrelemeUsulu\obj\Debug\SezarSifrelemeUsulu.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\SezarSifrelemeUsulu\SezarSifrelemeUsulu\obj\Debug\SezarSifrelemeUsulu.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\SezarSifrelemeUsulu\SezarSifrelemeUsulu\obj\Debug\SezarSifrelemeUsulu.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\SezarSifrelemeUsulu\SezarSifrelemeUsulu\obj\Debug\SezarSifrelemeUsulu.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\SezarSifrelemeUsulu\SezarSifrelemeUsulu\obj\Debug\SezarSifrelemeUsulu.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\SezarSifrelemeUsulu\SezarSifrelemeUsulu\obj\Debug\SezarSifrelemeUsulu.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\SezarSifrelemeUsulu\SezarSifrelemeUsulu\obj\Debug\SezarSifrelemeUsulu.pdb

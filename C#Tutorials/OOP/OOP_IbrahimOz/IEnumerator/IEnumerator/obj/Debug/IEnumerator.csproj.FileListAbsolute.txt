@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\IEnumerator\IEnumerator\bin\Debug\IEnumerator.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\IEnumerator\IEnumerator\bin\Debug\IEnumerator.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\IEnumerator\IEnumerator\bin\Debug\IEnumerator.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\IEnumerator\IEnumerator\obj\Debug\IEnumerator.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\IEnumerator\IEnumerator\obj\Debug\IEnumerator.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\IEnumerator\IEnumerator\obj\Debug\IEnumerator.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\IEnumerator\IEnumerator\obj\Debug\IEnumerator.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\IEnumerator\IEnumerator\obj\Debug\IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\IEnumerator\IEnumerator\obj\Debug\IEnumerator.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\IEnumerator\IEnumerator\obj\Debug\IEnumerator.pdb

@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders1_Connected\Ders1_Connected\bin\Debug\Ders1_Connected.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders1_Connected\Ders1_Connected\bin\Debug\Ders1_Connected.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders1_Connected\Ders1_Connected\bin\Debug\Ders1_Connected.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders1_Connected\Ders1_Connected\obj\Debug\Ders1_Connected.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders1_Connected\Ders1_Connected\obj\Debug\Ders1_Connected.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders1_Connected\Ders1_Connected\obj\Debug\Ders1_Connected.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders1_Connected\Ders1_Connected\obj\Debug\Ders1_Connected.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders1_Connected\Ders1_Connected\obj\Debug\Ders1_Connected.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders1_Connected\Ders1_Connected\obj\Debug\Ders1_Connected.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders1_Connected\Ders1_Connected\obj\Debug\Ders1_Connected.pdb

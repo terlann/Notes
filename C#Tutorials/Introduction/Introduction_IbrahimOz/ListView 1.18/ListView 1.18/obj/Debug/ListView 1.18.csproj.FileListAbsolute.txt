@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\source\repos\ListView 1.18\ListView 1.18\bin\Debug\ListView 1.18.exe.config
+C:\Users\QurbanovTM\source\repos\ListView 1.18\ListView 1.18\bin\Debug\ListView 1.18.exe
+C:\Users\QurbanovTM\source\repos\ListView 1.18\ListView 1.18\bin\Debug\ListView 1.18.pdb
+C:\Users\QurbanovTM\source\repos\ListView 1.18\ListView 1.18\obj\Debug\ListView 1.18.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\ListView 1.18\ListView 1.18\obj\Debug\ListView_1._18.Form1.resources
+C:\Users\QurbanovTM\source\repos\ListView 1.18\ListView 1.18\obj\Debug\ListView_1._18.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\ListView 1.18\ListView 1.18\obj\Debug\ListView 1.18.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\ListView 1.18\ListView 1.18\obj\Debug\ListView 1.18.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\ListView 1.18\ListView 1.18\obj\Debug\ListView 1.18.exe
+C:\Users\QurbanovTM\source\repos\ListView 1.18\ListView 1.18\obj\Debug\ListView 1.18.pdb

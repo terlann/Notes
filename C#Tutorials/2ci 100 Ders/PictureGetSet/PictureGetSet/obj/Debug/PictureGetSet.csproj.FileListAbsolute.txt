@@ -1,0 +1,17 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\bin\Debug\PictureGetSet.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\bin\Debug\PictureGetSet.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\bin\Debug\PictureGetSet.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\obj\Debug\PictureGetSet.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\obj\Debug\PictureGetSet.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\obj\Debug\PictureGetSet.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\obj\Debug\PictureGetSet.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\obj\Debug\PictureGetSet.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\obj\Debug\PictureGetSet.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\obj\Debug\PictureGetSet.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\bin\Debug\AForge.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\bin\Debug\AForge.Video.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\bin\Debug\AForge.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\bin\Debug\AForge.Video.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\PictureGetSet\PictureGetSet\obj\Debug\PictureGetSet.csproj.CopyComplete

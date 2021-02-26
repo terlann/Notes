@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\source\repos\listbox qarisdirma\listbox qarisdirma\bin\Debug\listbox qarisdirma.exe.config
+C:\Users\QurbanovTM\source\repos\listbox qarisdirma\listbox qarisdirma\bin\Debug\listbox qarisdirma.exe
+C:\Users\QurbanovTM\source\repos\listbox qarisdirma\listbox qarisdirma\bin\Debug\listbox qarisdirma.pdb
+C:\Users\QurbanovTM\source\repos\listbox qarisdirma\listbox qarisdirma\obj\Debug\listbox qarisdirma.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\listbox qarisdirma\listbox qarisdirma\obj\Debug\listbox_qarisdirma.Form1.resources
+C:\Users\QurbanovTM\source\repos\listbox qarisdirma\listbox qarisdirma\obj\Debug\listbox_qarisdirma.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\listbox qarisdirma\listbox qarisdirma\obj\Debug\listbox qarisdirma.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\listbox qarisdirma\listbox qarisdirma\obj\Debug\listbox qarisdirma.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\listbox qarisdirma\listbox qarisdirma\obj\Debug\listbox qarisdirma.exe
+C:\Users\QurbanovTM\source\repos\listbox qarisdirma\listbox qarisdirma\obj\Debug\listbox qarisdirma.pdb

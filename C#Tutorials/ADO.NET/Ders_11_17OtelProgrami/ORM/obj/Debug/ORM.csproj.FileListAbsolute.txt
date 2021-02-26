@@ -1,0 +1,9 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\ORM\bin\Debug\ORM.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\ORM\bin\Debug\ORM.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\ORM\obj\Debug\ORM.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\ORM\obj\Debug\ORM.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\ORM\obj\Debug\ORM.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\ORM\bin\Debug\ENTITY.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\ORM\bin\Debug\ENTITY.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_11_17OtelProgrami\ORM\obj\Debug\ORM.csproj.CopyComplete

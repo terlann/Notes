@@ -1,0 +1,7 @@
+C:\Users\QurbanovTM\source\repos\TocharArray\TocharArray\bin\Debug\TocharArray.exe.config
+C:\Users\QurbanovTM\source\repos\TocharArray\TocharArray\bin\Debug\TocharArray.exe
+C:\Users\QurbanovTM\source\repos\TocharArray\TocharArray\bin\Debug\TocharArray.pdb
+C:\Users\QurbanovTM\source\repos\TocharArray\TocharArray\obj\Debug\TocharArray.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\TocharArray\TocharArray\obj\Debug\TocharArray.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\TocharArray\TocharArray\obj\Debug\TocharArray.exe
+C:\Users\QurbanovTM\source\repos\TocharArray\TocharArray\obj\Debug\TocharArray.pdb

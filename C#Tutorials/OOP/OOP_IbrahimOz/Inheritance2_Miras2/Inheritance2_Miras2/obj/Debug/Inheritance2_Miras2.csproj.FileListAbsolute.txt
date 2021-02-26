@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Inheritance2_Miras2\Inheritance2_Miras2\bin\Debug\Inheritance2_Miras2.exe.config
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Inheritance2_Miras2\Inheritance2_Miras2\bin\Debug\Inheritance2_Miras2.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Inheritance2_Miras2\Inheritance2_Miras2\bin\Debug\Inheritance2_Miras2.pdb
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Inheritance2_Miras2\Inheritance2_Miras2\obj\Debug\Inheritance2_Miras2.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Inheritance2_Miras2\Inheritance2_Miras2\obj\Debug\Inheritance2_Miras2.Form1.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Inheritance2_Miras2\Inheritance2_Miras2\obj\Debug\Inheritance2_Miras2.Properties.Resources.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Inheritance2_Miras2\Inheritance2_Miras2\obj\Debug\Inheritance2_Miras2.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Inheritance2_Miras2\Inheritance2_Miras2\obj\Debug\Inheritance2_Miras2.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Inheritance2_Miras2\Inheritance2_Miras2\obj\Debug\Inheritance2_Miras2.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Inheritance2_Miras2\Inheritance2_Miras2\obj\Debug\Inheritance2_Miras2.pdb

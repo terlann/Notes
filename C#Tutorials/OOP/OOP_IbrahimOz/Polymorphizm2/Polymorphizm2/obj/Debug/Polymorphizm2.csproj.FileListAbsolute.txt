@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm2\Polymorphizm2\obj\Debug\Polymorphizm2.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm2\Polymorphizm2\obj\Debug\Polymorphizm2.Properties.Resources.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm2\Polymorphizm2\obj\Debug\Polymorphizm2.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm2\Polymorphizm2\obj\Debug\Polymorphizm2.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm2\Polymorphizm2\bin\Debug\Polymorphizm2.exe.config
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm2\Polymorphizm2\bin\Debug\Polymorphizm2.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm2\Polymorphizm2\bin\Debug\Polymorphizm2.pdb
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm2\Polymorphizm2\obj\Debug\Polymorphizm2.Form1.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm2\Polymorphizm2\obj\Debug\Polymorphizm2.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm2\Polymorphizm2\obj\Debug\Polymorphizm2.pdb

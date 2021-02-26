@@ -1,0 +1,9 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\ToBase64_IleSifreleme\ToBase64_IleSifreleme\bin\Debug\ToBase64_IleSifreleme.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\ToBase64_IleSifreleme\ToBase64_IleSifreleme\bin\Debug\ToBase64_IleSifreleme.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\ToBase64_IleSifreleme\ToBase64_IleSifreleme\bin\Debug\ToBase64_IleSifreleme.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\ToBase64_IleSifreleme\ToBase64_IleSifreleme\obj\Debug\ToBase64_IleSifreleme.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\ToBase64_IleSifreleme\ToBase64_IleSifreleme\obj\Debug\ToBase64_IleSifreleme.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\ToBase64_IleSifreleme\ToBase64_IleSifreleme\obj\Debug\ToBase64_IleSifreleme.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\ToBase64_IleSifreleme\ToBase64_IleSifreleme\obj\Debug\ToBase64_IleSifreleme.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\ToBase64_IleSifreleme\ToBase64_IleSifreleme\obj\Debug\ToBase64_IleSifreleme.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\ToBase64_IleSifreleme\ToBase64_IleSifreleme\obj\Debug\ToBase64_IleSifreleme.pdb

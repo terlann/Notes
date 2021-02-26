@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\source\repos\Metodlar\Metodlar\bin\Debug\Metodlar.exe.config
+C:\Users\QurbanovTM\source\repos\Metodlar\Metodlar\bin\Debug\Metodlar.exe
+C:\Users\QurbanovTM\source\repos\Metodlar\Metodlar\bin\Debug\Metodlar.pdb
+C:\Users\QurbanovTM\source\repos\Metodlar\Metodlar\obj\Debug\Metodlar.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\Metodlar\Metodlar\obj\Debug\Metodlar.Form1.resources
+C:\Users\QurbanovTM\source\repos\Metodlar\Metodlar\obj\Debug\Metodlar.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\Metodlar\Metodlar\obj\Debug\Metodlar.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\Metodlar\Metodlar\obj\Debug\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\Metodlar\Metodlar\obj\Debug\Metodlar.exe
+C:\Users\QurbanovTM\source\repos\Metodlar\Metodlar\obj\Debug\Metodlar.pdb

@@ -1,0 +1,12 @@
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\bin\Debug\MDIForm.exe.config
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\bin\Debug\MDIForm.exe
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\bin\Debug\MDIForm.pdb
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.Form1.resources
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.exe
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.pdb
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.PersonalForm.resources
+C:\Users\QurbanovTM\source\repos\MDIForm\MDIForm\obj\Debug\MDIForm.Musteriler.resources

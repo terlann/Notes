@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Encapsulation_Kapsulleme\Encapsulation_Kapsulleme\bin\Debug\Encapsulation_Kapsulleme.exe.config
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Encapsulation_Kapsulleme\Encapsulation_Kapsulleme\bin\Debug\Encapsulation_Kapsulleme.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Encapsulation_Kapsulleme\Encapsulation_Kapsulleme\bin\Debug\Encapsulation_Kapsulleme.pdb
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Encapsulation_Kapsulleme\Encapsulation_Kapsulleme\obj\Debug\Encapsulation_Kapsulleme.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Encapsulation_Kapsulleme\Encapsulation_Kapsulleme\obj\Debug\Encapsulation_Kapsulleme.Form1.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Encapsulation_Kapsulleme\Encapsulation_Kapsulleme\obj\Debug\Encapsulation_Kapsulleme.Properties.Resources.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Encapsulation_Kapsulleme\Encapsulation_Kapsulleme\obj\Debug\Encapsulation_Kapsulleme.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Encapsulation_Kapsulleme\Encapsulation_Kapsulleme\obj\Debug\Encapsulation_Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Encapsulation_Kapsulleme\Encapsulation_Kapsulleme\obj\Debug\Encapsulation_Kapsulleme.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Encapsulation_Kapsulleme\Encapsulation_Kapsulleme\obj\Debug\Encapsulation_Kapsulleme.pdb

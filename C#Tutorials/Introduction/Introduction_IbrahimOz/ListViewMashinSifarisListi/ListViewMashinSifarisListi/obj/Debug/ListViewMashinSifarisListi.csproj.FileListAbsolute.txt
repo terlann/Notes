@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\source\repos\ListViewMashinSifarisListi\ListViewMashinSifarisListi\bin\Debug\ListViewMashinSifarisListi.exe.config
+C:\Users\QurbanovTM\source\repos\ListViewMashinSifarisListi\ListViewMashinSifarisListi\bin\Debug\ListViewMashinSifarisListi.exe
+C:\Users\QurbanovTM\source\repos\ListViewMashinSifarisListi\ListViewMashinSifarisListi\bin\Debug\ListViewMashinSifarisListi.pdb
+C:\Users\QurbanovTM\source\repos\ListViewMashinSifarisListi\ListViewMashinSifarisListi\obj\Debug\ListViewMashinSifarisListi.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\ListViewMashinSifarisListi\ListViewMashinSifarisListi\obj\Debug\ListViewMashinSifarisListi.btn.resources
+C:\Users\QurbanovTM\source\repos\ListViewMashinSifarisListi\ListViewMashinSifarisListi\obj\Debug\ListViewMashinSifarisListi.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\ListViewMashinSifarisListi\ListViewMashinSifarisListi\obj\Debug\ListViewMashinSifarisListi.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\ListViewMashinSifarisListi\ListViewMashinSifarisListi\obj\Debug\ListViewMashinSifarisListi.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\ListViewMashinSifarisListi\ListViewMashinSifarisListi\obj\Debug\ListViewMashinSifarisListi.exe
+C:\Users\QurbanovTM\source\repos\ListViewMashinSifarisListi\ListViewMashinSifarisListi\obj\Debug\ListViewMashinSifarisListi.pdb

@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\PolymorphizmTostring\PolymorphizmTostring\bin\Debug\PolymorphizmTostring.exe.config
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\PolymorphizmTostring\PolymorphizmTostring\bin\Debug\PolymorphizmTostring.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\PolymorphizmTostring\PolymorphizmTostring\bin\Debug\PolymorphizmTostring.pdb
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\PolymorphizmTostring\PolymorphizmTostring\obj\Debug\PolymorphizmTostring.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\PolymorphizmTostring\PolymorphizmTostring\obj\Debug\PolymorphizmTostring.Form1.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\PolymorphizmTostring\PolymorphizmTostring\obj\Debug\PolymorphizmTostring.Properties.Resources.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\PolymorphizmTostring\PolymorphizmTostring\obj\Debug\PolymorphizmTostring.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\PolymorphizmTostring\PolymorphizmTostring\obj\Debug\PolymorphizmTostring.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\PolymorphizmTostring\PolymorphizmTostring\obj\Debug\PolymorphizmTostring.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\PolymorphizmTostring\PolymorphizmTostring\obj\Debug\PolymorphizmTostring.pdb

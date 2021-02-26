@@ -1,0 +1,11 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\bin\Debug\Speech_SesliOxuma.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\bin\Debug\Speech_SesliOxuma.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\bin\Debug\Speech_SesliOxuma.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\obj\Debug\Interop.SpeechLib.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\obj\Debug\Speech_SesliOxuma.csproj.ResolveComReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\obj\Debug\Speech_SesliOxuma.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\obj\Debug\Speech_SesliOxuma.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\obj\Debug\Speech_SesliOxuma.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\obj\Debug\Speech_SesliOxuma.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\obj\Debug\Speech_SesliOxuma.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Speech_SesliOxuma\Speech_SesliOxuma\obj\Debug\Speech_SesliOxuma.pdb

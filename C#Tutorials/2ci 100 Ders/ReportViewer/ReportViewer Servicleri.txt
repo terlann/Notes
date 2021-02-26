@@ -1,0 +1,4 @@
+ReportViewer'in  winforma cixmasi ucun NuGet'den bunlari yuklemey lazimdir:
+
+Microsoft.ReportingServices.ReportViewerControl.WinForms
+Microsoft.ReportViewer.WinForms.v12

@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm_CokBicimlilik\Polymorphizm_CokBicimlilik\obj\Debug\Polymorphizm_CokBicimlilik.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm_CokBicimlilik\Polymorphizm_CokBicimlilik\obj\Debug\Polymorphizm_CokBicimlilik.Form1.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm_CokBicimlilik\Polymorphizm_CokBicimlilik\obj\Debug\Polymorphizm_CokBicimlilik.Properties.Resources.resources
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm_CokBicimlilik\Polymorphizm_CokBicimlilik\obj\Debug\Polymorphizm_CokBicimlilik.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm_CokBicimlilik\Polymorphizm_CokBicimlilik\obj\Debug\Polymorphizm_CokBicimlilik.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm_CokBicimlilik\Polymorphizm_CokBicimlilik\bin\Debug\Polymorphizm_CokBicimlilik.exe.config
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm_CokBicimlilik\Polymorphizm_CokBicimlilik\bin\Debug\Polymorphizm_CokBicimlilik.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm_CokBicimlilik\Polymorphizm_CokBicimlilik\bin\Debug\Polymorphizm_CokBicimlilik.pdb
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm_CokBicimlilik\Polymorphizm_CokBicimlilik\obj\Debug\Polymorphizm_CokBicimlilik.exe
+C:\Users\QurbanovTM\Desktop\C#Tutorials\OOP\Polymorphizm_CokBicimlilik\Polymorphizm_CokBicimlilik\obj\Debug\Polymorphizm_CokBicimlilik.pdb

@@ -1,0 +1,11 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\bin\Debug\Ders2_Disconnected.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\bin\Debug\Ders2_Disconnected.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\bin\Debug\Ders2_Disconnected.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\obj\Debug\Ders2_Disconnected.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\obj\Debug\Ders2_Disconnected.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\obj\Debug\Ders2_Disconnected.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\obj\Debug\Ders2_Disconnected.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\obj\Debug\Ders2_Disconnected.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\obj\Debug\Ders2_Disconnected.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\obj\Debug\Ders2_Disconnected.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders2_Disconnected\Ders2_Disconnected\obj\Debug\Ders2_Disconnected.Kategoriler.resources

@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Generic\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Generic\Generic\obj\Debug\Generic.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Generic\Generic\obj\Debug\Generic.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Generic\Generic\obj\Debug\Generic.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Generic\Generic\bin\Debug\Generic.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Generic\Generic\obj\Debug\Generic.pdb

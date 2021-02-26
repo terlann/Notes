@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\source\repos\DialoqPencereleri\DialoqPencereleri\bin\Debug\DialoqPencereleri.exe.config
+C:\Users\QurbanovTM\source\repos\DialoqPencereleri\DialoqPencereleri\bin\Debug\DialoqPencereleri.exe
+C:\Users\QurbanovTM\source\repos\DialoqPencereleri\DialoqPencereleri\bin\Debug\DialoqPencereleri.pdb
+C:\Users\QurbanovTM\source\repos\DialoqPencereleri\DialoqPencereleri\obj\Debug\DialoqPencereleri.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\DialoqPencereleri\DialoqPencereleri\obj\Debug\DialoqPencereleri.Form1.resources
+C:\Users\QurbanovTM\source\repos\DialoqPencereleri\DialoqPencereleri\obj\Debug\DialoqPencereleri.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\DialoqPencereleri\DialoqPencereleri\obj\Debug\DialoqPencereleri.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\DialoqPencereleri\DialoqPencereleri\obj\Debug\DialoqPencereleri.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\DialoqPencereleri\DialoqPencereleri\obj\Debug\DialoqPencereleri.exe
+C:\Users\QurbanovTM\source\repos\DialoqPencereleri\DialoqPencereleri\obj\Debug\DialoqPencereleri.pdb

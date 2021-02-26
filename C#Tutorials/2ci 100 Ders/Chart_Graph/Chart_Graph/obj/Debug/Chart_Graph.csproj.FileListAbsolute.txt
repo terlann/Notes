@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Chart_Graph\Chart_Graph\bin\Debug\Chart_Graph.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Chart_Graph\Chart_Graph\bin\Debug\Chart_Graph.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Chart_Graph\Chart_Graph\bin\Debug\Chart_Graph.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Chart_Graph\Chart_Graph\obj\Debug\Chart_Graph.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Chart_Graph\Chart_Graph\obj\Debug\Chart_Graph.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Chart_Graph\Chart_Graph\obj\Debug\Chart_Graph.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Chart_Graph\Chart_Graph\obj\Debug\Chart_Graph.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Chart_Graph\Chart_Graph\obj\Debug\Chart_Graph.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Chart_Graph\Chart_Graph\obj\Debug\Chart_Graph.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\Chart_Graph\Chart_Graph\obj\Debug\Chart_Graph.pdb

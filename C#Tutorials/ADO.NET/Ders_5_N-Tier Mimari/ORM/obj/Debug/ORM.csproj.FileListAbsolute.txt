@@ -1,0 +1,6 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\ORM\bin\Debug\ORM.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\ORM\bin\Debug\ORM.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\ORM\obj\Debug\ORM.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\ORM\obj\Debug\ORM.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\ORM\obj\Debug\ORM.pdb

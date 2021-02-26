@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\InterfaceUygulamasi\InterfaceUygulamasi\bin\Debug\InterfaceUygulamasi.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\InterfaceUygulamasi\InterfaceUygulamasi\bin\Debug\InterfaceUygulamasi.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\InterfaceUygulamasi\InterfaceUygulamasi\bin\Debug\InterfaceUygulamasi.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\InterfaceUygulamasi\InterfaceUygulamasi\obj\Debug\InterfaceUygulamasi.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\InterfaceUygulamasi\InterfaceUygulamasi\obj\Debug\InterfaceUygulamasi.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\InterfaceUygulamasi\InterfaceUygulamasi\obj\Debug\InterfaceUygulamasi.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\InterfaceUygulamasi\InterfaceUygulamasi\obj\Debug\InterfaceUygulamasi.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\InterfaceUygulamasi\InterfaceUygulamasi\obj\Debug\InterfaceUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\InterfaceUygulamasi\InterfaceUygulamasi\obj\Debug\InterfaceUygulamasi.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\InterfaceUygulamasi\InterfaceUygulamasi\obj\Debug\InterfaceUygulamasi.pdb

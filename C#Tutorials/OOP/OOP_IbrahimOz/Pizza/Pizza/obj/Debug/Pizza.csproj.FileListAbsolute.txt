@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Pizza\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\OOP_IbrahimOz\Pizza\Pizza\obj\Debug\Pizza.pdb

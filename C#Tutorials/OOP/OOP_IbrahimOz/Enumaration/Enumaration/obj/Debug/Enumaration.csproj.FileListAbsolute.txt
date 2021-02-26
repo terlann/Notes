@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Enumaration\Enumaration\bin\Debug\Enumaration.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Enumaration\Enumaration\bin\Debug\Enumaration.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Enumaration\Enumaration\bin\Debug\Enumaration.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Enumaration\Enumaration\obj\Debug\Enumaration.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Enumaration\Enumaration\obj\Debug\Enumaration.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Enumaration\Enumaration\obj\Debug\Enumaration.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Enumaration\Enumaration\obj\Debug\Enumaration.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Enumaration\Enumaration\obj\Debug\Enumaration.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Enumaration\Enumaration\obj\Debug\Enumaration.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Enumaration\Enumaration\obj\Debug\Enumaration.pdb

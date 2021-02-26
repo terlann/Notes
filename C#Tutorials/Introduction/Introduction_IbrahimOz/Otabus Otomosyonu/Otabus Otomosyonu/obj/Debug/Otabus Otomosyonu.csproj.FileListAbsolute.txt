@@ -1,0 +1,11 @@
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\bin\Debug\Otabus Otomosyonu.exe.config
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\bin\Debug\Otabus Otomosyonu.exe
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\bin\Debug\Otabus Otomosyonu.pdb
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\obj\Debug\Otabus Otomosyonu.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\obj\Debug\Otabus_Otomosyonu.Form1.resources
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\obj\Debug\Otabus_Otomosyonu.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\obj\Debug\Otabus Otomosyonu.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\obj\Debug\Otabus Otomosyonu.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\obj\Debug\Otabus Otomosyonu.exe
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\obj\Debug\Otabus Otomosyonu.pdb
+C:\Users\QurbanovTM\source\repos\Otabus Otomosyonu\Otabus Otomosyonu\obj\Debug\Otabus_Otomosyonu.Form2.resources

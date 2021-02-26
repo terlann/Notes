@@ -1,0 +1,14 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\bin\Debug\Ders_5_N-Tier Mimari.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\bin\Debug\Ders_5_N-Tier Mimari.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\bin\Debug\Ders_5_N-Tier Mimari.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\bin\Debug\ORM.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\bin\Debug\ORM.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\obj\Debug\Ders_5_N-Tier Mimari.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\obj\Debug\Ders_5_N_Tier_Mimari.Form_Urunler.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\obj\Debug\Ders_5_N_Tier_Mimari.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\obj\Debug\Ders_5_N-Tier Mimari.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\obj\Debug\Ders_5_N-Tier Mimari.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\obj\Debug\Ders_5_N-Tier Mimari.csproj.CopyComplete
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\obj\Debug\Ders_5_N-Tier Mimari.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\obj\Debug\Ders_5_N-Tier Mimari.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders_5_N-Tier Mimari\Ders_5_N-Tier Mimari\obj\Debug\Ders_5_N_Tier_Mimari.FormKategoriler.resources

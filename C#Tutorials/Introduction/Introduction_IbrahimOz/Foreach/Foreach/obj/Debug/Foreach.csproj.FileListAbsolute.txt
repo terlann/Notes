@@ -1,0 +1,7 @@
+C:\Users\QurbanovTM\source\repos\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\QurbanovTM\source\repos\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\QurbanovTM\source\repos\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\QurbanovTM\source\repos\Foreach\Foreach\obj\Debug\Foreach.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\QurbanovTM\source\repos\Foreach\Foreach\obj\Debug\Foreach.pdb

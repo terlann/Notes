@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\source\repos\listde axtarma\listde axtarma\bin\Debug\listde axtarma.exe.config
+C:\Users\QurbanovTM\source\repos\listde axtarma\listde axtarma\bin\Debug\listde axtarma.exe
+C:\Users\QurbanovTM\source\repos\listde axtarma\listde axtarma\bin\Debug\listde axtarma.pdb
+C:\Users\QurbanovTM\source\repos\listde axtarma\listde axtarma\obj\Debug\listde axtarma.csprojAssemblyReference.cache
+C:\Users\QurbanovTM\source\repos\listde axtarma\listde axtarma\obj\Debug\listde_axtarma.Form1.resources
+C:\Users\QurbanovTM\source\repos\listde axtarma\listde axtarma\obj\Debug\listde_axtarma.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\listde axtarma\listde axtarma\obj\Debug\listde axtarma.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\listde axtarma\listde axtarma\obj\Debug\listde axtarma.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\listde axtarma\listde axtarma\obj\Debug\listde axtarma.exe
+C:\Users\QurbanovTM\source\repos\listde axtarma\listde axtarma\obj\Debug\listde axtarma.pdb

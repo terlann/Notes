@@ -1,0 +1,9 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\RengliDatagridView\RengliDatagridView\bin\Debug\RengliDatagridView.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\RengliDatagridView\RengliDatagridView\bin\Debug\RengliDatagridView.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\RengliDatagridView\RengliDatagridView\bin\Debug\RengliDatagridView.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\RengliDatagridView\RengliDatagridView\obj\Debug\RengliDatagridView.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\RengliDatagridView\RengliDatagridView\obj\Debug\RengliDatagridView.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\RengliDatagridView\RengliDatagridView\obj\Debug\RengliDatagridView.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\RengliDatagridView\RengliDatagridView\obj\Debug\RengliDatagridView.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\RengliDatagridView\RengliDatagridView\obj\Debug\RengliDatagridView.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\RengliDatagridView\RengliDatagridView\obj\Debug\RengliDatagridView.pdb

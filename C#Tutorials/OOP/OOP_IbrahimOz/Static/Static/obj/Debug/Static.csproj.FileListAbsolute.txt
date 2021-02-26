@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Static\Static\bin\Debug\Static.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Static\Static\bin\Debug\Static.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Static\Static\bin\Debug\Static.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Static\Static\obj\Debug\Static.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Static\Static\obj\Debug\Static.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Static\Static\obj\Debug\Static.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Static\Static\obj\Debug\Static.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Static\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Static\Static\obj\Debug\Static.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Static\Static\obj\Debug\Static.pdb

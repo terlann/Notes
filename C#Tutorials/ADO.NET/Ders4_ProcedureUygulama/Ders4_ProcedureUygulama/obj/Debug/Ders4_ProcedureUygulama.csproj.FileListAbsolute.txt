@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders4_ProcedureUygulama\Ders4_ProcedureUygulama\bin\Debug\Ders4_ProcedureUygulama.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders4_ProcedureUygulama\Ders4_ProcedureUygulama\bin\Debug\Ders4_ProcedureUygulama.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders4_ProcedureUygulama\Ders4_ProcedureUygulama\bin\Debug\Ders4_ProcedureUygulama.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders4_ProcedureUygulama\Ders4_ProcedureUygulama\obj\Debug\Ders4_ProcedureUygulama.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders4_ProcedureUygulama\Ders4_ProcedureUygulama\obj\Debug\Ders4_ProcedureUygulama.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders4_ProcedureUygulama\Ders4_ProcedureUygulama\obj\Debug\Ders4_ProcedureUygulama.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders4_ProcedureUygulama\Ders4_ProcedureUygulama\obj\Debug\Ders4_ProcedureUygulama.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders4_ProcedureUygulama\Ders4_ProcedureUygulama\obj\Debug\Ders4_ProcedureUygulama.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders4_ProcedureUygulama\Ders4_ProcedureUygulama\obj\Debug\Ders4_ProcedureUygulama.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\ADO.NET\Ders4_ProcedureUygulama\Ders4_ProcedureUygulama\obj\Debug\Ders4_ProcedureUygulama.pdb

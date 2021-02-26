@@ -1,0 +1,10 @@
+C:\Users\QurbanovTM\source\repos\RuntimeControls\RuntimeControls\bin\Debug\RuntimeControls.exe.config
+C:\Users\QurbanovTM\source\repos\RuntimeControls\RuntimeControls\bin\Debug\RuntimeControls.exe
+C:\Users\QurbanovTM\source\repos\RuntimeControls\RuntimeControls\bin\Debug\RuntimeControls.pdb
+C:\Users\QurbanovTM\source\repos\RuntimeControls\RuntimeControls\obj\Debug\RuntimeControls.Form1.resources
+C:\Users\QurbanovTM\source\repos\RuntimeControls\RuntimeControls\obj\Debug\RuntimeControls.Properties.Resources.resources
+C:\Users\QurbanovTM\source\repos\RuntimeControls\RuntimeControls\obj\Debug\RuntimeControls.csproj.GenerateResource.cache
+C:\Users\QurbanovTM\source\repos\RuntimeControls\RuntimeControls\obj\Debug\RuntimeControls.csproj.CoreCompileInputs.cache
+C:\Users\QurbanovTM\source\repos\RuntimeControls\RuntimeControls\obj\Debug\RuntimeControls.exe
+C:\Users\QurbanovTM\source\repos\RuntimeControls\RuntimeControls\obj\Debug\RuntimeControls.pdb
+C:\Users\QurbanovTM\source\repos\RuntimeControls\RuntimeControls\obj\Debug\RuntimeControls.csprojAssemblyReference.cache

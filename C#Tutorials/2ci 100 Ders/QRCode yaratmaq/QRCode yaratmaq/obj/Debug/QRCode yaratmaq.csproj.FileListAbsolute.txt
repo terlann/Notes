@@ -1,0 +1,12 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\bin\Debug\QRCode yaratmaq.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\bin\Debug\QRCode yaratmaq.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\bin\Debug\QRCode yaratmaq.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\obj\Debug\QRCode yaratmaq.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\obj\Debug\QRCode_yaratmaq.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\obj\Debug\QRCode_yaratmaq.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\obj\Debug\QRCode yaratmaq.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\obj\Debug\QRCode yaratmaq.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\obj\Debug\QRCode yaratmaq.csproj.CopyComplete
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\obj\Debug\QRCode yaratmaq.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\2ci 100 Ders\QRCode yaratmaq\QRCode yaratmaq\obj\Debug\QRCode yaratmaq.pdb

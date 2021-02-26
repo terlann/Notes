@@ -1,0 +1,10 @@
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Abstract\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Abstract\Abstract\obj\Debug\Abstract.Form1.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Abstract\Abstract\obj\Debug\Abstract.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Abstract\Abstract\obj\Debug\Abstract.csproj.GenerateResource.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\qurbanovtm\Desktop\Folders\C#Tutorials\OOP\Abstract\Abstract\obj\Debug\Abstract.pdb
